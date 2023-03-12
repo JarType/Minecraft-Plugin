@@ -1,0 +1,7 @@
+me\jartype\firstplugin\FirstPlugin.class
+me\jartype\firstplugin\managers\CurrencyManager.class
+me\jartype\firstplugin\listeners\MobKills.class
+me\jartype\firstplugin\listeners\JoinLeaveMessages.class
+me\jartype\firstplugin\events\ClickEvent.class
+me\jartype\firstplugin\commands\GUICommand.class
+me\jartype\firstplugin\utils\Utils.class

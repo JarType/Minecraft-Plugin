@@ -1,0 +1,9 @@
+name: FirstPlugin
+version: '${project.version}'
+main: me.jartype.firstplugin.FirstPlugin
+api-version: 1.19
+authors: [ JarType ]
+description: MY first plugin 2022
+commands:
+  gui:
+    description: open a crystal shop!

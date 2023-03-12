@@ -1,0 +1,9 @@
+name: FirstPlugin
+version: '1.0-SNAPSHOT'
+main: me.jartype.firstplugin.FirstPlugin
+api-version: 1.19
+authors: [ JarType ]
+description: MY first plugin 2022
+commands:
+  gui:
+    description: open a crystal shop!
